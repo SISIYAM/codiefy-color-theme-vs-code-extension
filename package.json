@@ -3,7 +3,7 @@
   "displayName": "Codeify",
   "description": "Immerse in coding darkness with Codiefy.",
   "version": "1.0.0",
-  "logo": "images/Codiefy.png",
+  "icon": "images/Codiefy.png",
   "publisher": "siyam",
   "author": {
     "name": "MD Saymum Islam Siyam",
