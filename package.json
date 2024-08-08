@@ -1,0 +1,32 @@
+{
+  "name": "Codeify",
+  "displayName": "Codeify",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "logo": "colors.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codeify italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeify-italic-color-theme.json"
+      },
+      {
+        "label": "Codeify deep italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeify-deep-color-theme.json"
+      },
+      {
+        "label": "Codeify optimus prime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codiefy-optimas-color-theme.json"
+      }
+    ]
+  }
+}
