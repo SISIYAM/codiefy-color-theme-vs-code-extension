@@ -2,7 +2,7 @@
   "name": "Codeify",
   "displayName": "Codeify",
   "description": "Immerse in coding darkness with Codiefy.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/Codiefy.png",
   "publisher": "siyam",
   "author": {
@@ -15,7 +15,7 @@
     "url": "https://github.com/SISIYAM/codiefy-color-theme-vs-code-extension.git"
   },
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.14.0"
   },
   "categories": [
     "Themes"
