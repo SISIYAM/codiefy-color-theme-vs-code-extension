@@ -1,16 +1,19 @@
-# siarp README
+# Codiefy color theme for VS Code
 
-## Working with Markdown
+- **`Codeify italic color theme`**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Codeify italic](images/italic.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **`Codeify deep italic color theme`**
 
-## For more information
+![Codeify deep italic](images/deep.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **`Codeify optimus prime color theme`**
 
-**Enjoy!**
+![Codeify optimus prime](images/optimas.png)
+
+![Codeify optimus prime](images/op.png)
+
+##
+
+- author : (`Md Saymum Islam Siyam`).

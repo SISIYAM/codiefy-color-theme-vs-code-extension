@@ -1,14 +1,41 @@
 {
   "name": "Codeify",
   "displayName": "Codeify",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Immerse in coding darkness with Codiefy.",
+  "version": "1.0.0",
+  "logo": "images/Codiefy.png",
+  "publisher": "siyam",
+  "author": {
+    "name": "MD Saymum Islam Siyam",
+    "url": "https://siyam70.netlify.app/",
+    "email": "si31siyam@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SISIYAM/codiefy-color-theme-vs-code-extension.git"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
-  "logo": "colors.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "material theme",
+    "optimas prime",
+    "redish",
+    "red",
+    "siyam",
+    "best theme",
+    "top theme",
+    "top dark theme",
+    "best dark theme",
+    "dracula theme",
+    "andromeda theme",
+    "jelly fish",
+    "github",
+    "colorizer"
   ],
   "contributes": {
     "themes": [
