@@ -53,6 +53,16 @@
         "label": "Codeify optimus prime",
         "uiTheme": "vs-dark",
         "path": "./themes/codiefy-optimas-color-theme.json"
+      },
+      {
+        "label": "Codeify dark matter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeify-dark-matter-theme.json"
+      },
+      {
+        "label": "Codeify dark berry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codeify-dark-berry.json"
       }
     ]
   }
