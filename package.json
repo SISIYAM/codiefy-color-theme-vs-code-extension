@@ -43,7 +43,17 @@
     "winter is coming theme",
     "one monokai theme",
     "monokai",
-    "palenight theme"
+    "palenight theme",
+    "codeify dark matter theme",
+    "codeify dark berry theme",
+    "codiefy",
+    "codiefy dark theme",
+    "codiefy dark matter theme",
+    "codiefy dark berry theme",
+    "codify",
+    "codify dark theme",
+    "codify dark matter theme",
+    "codify dark berry theme"
   ],
   "contributes": {
     "themes": [

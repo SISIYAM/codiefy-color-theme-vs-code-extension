@@ -10,3 +10,11 @@ All notable changes to the "Codeify" extension will be documented in this file. 
   - Added a new theme: "Codeify Dark Matter"
   - Added another new theme: "Codeify Dark Berry"
   - Updated the existing theme: "Codeify Deep Italic"
+
+## License
+
+This extension is licensed under the MIT License. See LICENSE for details.
+
+[License](LICENSE)
+
+Happy coding! 🚀
