@@ -53,6 +53,7 @@
     "activityBarBadge.background": "#b910d1",
     "sideBar.background": "#1e1f1c",
     "sideBarSectionHeader.background": "#272822",
+    "sideBar.border": "#6272a4",
     "menu.background": "#1e1f1c",
     "menu.foreground": "#cccccc",
     "pickerGroup.foreground": "#75715E",
