@@ -2,7 +2,7 @@
   "name": "Codeify",
   "displayName": "Codeify",
   "description": "Immerse in coding darkness with Codiefy.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "images/Codiefy.png",
   "publisher": "siyam",
   "author": {
@@ -35,7 +35,15 @@
     "andromeda theme",
     "jelly fish",
     "github",
-    "colorizer"
+    "colorizer",
+    "atom theme",
+    "github theme",
+    "material theme",
+    "cobalt2 theme",
+    "winter is coming theme",
+    "one monokai theme",
+    "monokai",
+    "palenight theme"
   ],
   "contributes": {
     "themes": [

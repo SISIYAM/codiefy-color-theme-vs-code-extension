@@ -47,8 +47,8 @@
     "activityBar.dropBackground": "#3a404e",
     "activityBar.foreground": "#ece932",
     "activityBar.inactiveForeground": "#ffffff66",
-    "activityBarBadge.background": "#00b0ff",
-    "activityBarBadge.foreground": "#20232B",
+    "activityBarBadge.background": "#a94dfa",
+    "activityBarBadge.foreground": "#fff",
     "activityBar.border": "#a61df5",
 
     "sideBar.background": "#1d1d26",
@@ -69,7 +69,7 @@
     "editor.background": "#1d1d26",
 
     "editor.foreground": "#D5CED9",
-    "editorLineNumber.foreground": "#73b426",
+    "editorLineNumber.foreground": "#9a71a6",
     "editorLineNumber.activeForeground": "#c6c6c6",
     "editorCursor.foreground": "#00e7ff",
     "editor.selectionBackground": "#184860",
@@ -243,8 +243,7 @@
         "entity.other.attribute-name",
         "support.type.exception.python",
         "source.css keyword.other.unit",
-        "variable.other.object.property.js.jsx",
-        "variable.other.object.js"
+        "variable.other.object.property.js.jsx"
       ],
       "settings": {
         "foreground": "#8b59ff"
@@ -300,7 +299,7 @@
       }
     },
     {
-      "name": "Purple",
+      "name": "pink2",
       "scope": [
         "storage",
         "keyword",
@@ -323,7 +322,6 @@
     {
       "name": "Red",
       "scope": [
-        "support.class",
         "keyword.operator",
         "support.constant",
         "text.html.markdown string",
@@ -354,6 +352,13 @@
       ],
       "settings": {
         "foreground": "#E6DB74"
+      }
+    },
+    {
+      "name": "Green",
+      "scope": ["support.class", "variable.other.object.js"],
+      "settings": {
+        "foreground": "#4dfa8d"
       }
     },
     {

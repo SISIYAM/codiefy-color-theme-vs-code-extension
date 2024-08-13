@@ -193,7 +193,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -225,7 +225,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#FD971F"
       }
     },
@@ -265,7 +265,7 @@
       "name": "Library class/type",
       "scope": "support.type, support.class",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -393,7 +393,7 @@
       "name": "Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#75715E"
       }
     },
