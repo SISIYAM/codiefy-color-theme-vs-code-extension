@@ -45,16 +45,17 @@
 
     "activityBar.background": "#20232B",
     "activityBar.dropBackground": "#3a404e",
-    "activityBar.foreground": "#BAAFC0",
+    "activityBar.foreground": "#ece932",
+    "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.background": "#00b0ff",
     "activityBarBadge.foreground": "#20232B",
-    "activityBar.border": "#1B1D23",
+    "activityBar.border": "#a61df5",
 
-    "sideBar.background": "#23262E",
+    "sideBar.background": "#1d1d26",
     "sideBarSectionHeader.background": "#23262E",
     "sideBarTitle.foreground": "#00e8c6",
     "sideBar.foreground": "#999999",
-    "sideBar.border": "#1B1D23",
+    "sideBar.border": "#a2f51d",
 
     "editorGroup.background": "#23262E",
     "editorGroup.dropBackground": "#495061d7",
@@ -65,12 +66,12 @@
     "tab.inactiveForeground": "#746f77",
     "tab.activeBorder": "#00e8c6",
 
-    "editor.background": "#1c1c1e",
+    "editor.background": "#1d1d26",
 
     "editor.foreground": "#D5CED9",
-    "editorLineNumber.foreground": "#2dbeb7",
-    "editorLineNumber.activeForeground": "#a22af5",
-    "editorCursor.foreground": "#f8ff28",
+    "editorLineNumber.foreground": "#73b426",
+    "editorLineNumber.activeForeground": "#c6c6c6",
+    "editorCursor.foreground": "#00e7ff",
     "editor.selectionBackground": "#184860",
     "editor.selectionHighlightBackground": "#5c00ff58",
     "editor.selectionHighlightBorder": "#d1e2e1",
@@ -211,7 +212,7 @@
       }
     },
     {
-      "name": "Cyan",
+      "name": "Red",
       "scope": [
         "variable",
         "support.variable",
@@ -223,13 +224,14 @@
         "meta.structure.dictionary.json support.type.property-name"
       ],
       "settings": {
-        "foreground": "#f1521f"
+        "foreground": "#ff5555"
       }
     },
     {
-      "name": "Orange",
+      "name": "Purple",
       "scope": [
         "markup.bold",
+        "constant",
         "constant.numeric",
         "meta.group.regexp",
         "constant.other.php",
@@ -245,11 +247,11 @@
         "variable.other.object.js"
       ],
       "settings": {
-        "foreground": "#dde116"
+        "foreground": "#8b59ff"
       }
     },
     {
-      "name": "Yellow",
+      "name": "Cyan",
       "scope": [
         "markup.list",
         "text.xml string",
@@ -268,7 +270,7 @@
         "text.xml punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#28d4da"
+        "foreground": "#29dde3"
       }
     },
     {
@@ -308,7 +310,7 @@
         "source.js support.type"
       ],
       "settings": {
-        "foreground": "#f611ec"
+        "foreground": "#ff79c6"
       }
     },
     {
@@ -321,7 +323,6 @@
     {
       "name": "Red",
       "scope": [
-        "constant",
         "support.class",
         "keyword.operator",
         "support.constant",
@@ -337,7 +338,7 @@
       }
     },
     {
-      "name": "Green",
+      "name": "string color",
       "scope": [
         "string",
         "text.html.php string",
