@@ -20,15 +20,15 @@ The `"Codeify"` extension provides a set of stylish color themes for Visual Stud
 
   `Html`
 
-  ![italic html](images/italic/html.png)
+  ![italic html](images/html.png)
 
   `Javascript`
 
-  ![italic js](images/italic/js.png)
+  ![italic js](images/js.png)
 
   `php`
 
-  ![italic php](images/italic/php.png)
+  ![italic php](images/php.png)
 
 - **`Codeify Deep Italic`**
 
@@ -48,26 +48,26 @@ The `"Codeify"` extension provides a set of stylish color themes for Visual Stud
 
   `Html`
 
-  ![Dark Matter](<images/dark matter/html.png>)
+  ![Dark Matter](images/dark-matter-html.png)
 
   `Javascript`
 
-  ![Dark Matter](<images/dark matter/js.png>)
+  ![Dark Matter](images/dark-matter-js.png)
 
   `php`
 
-  ![Dark Matter](<images/dark matter/php.png>)
+  ![Dark Matter](images/dark-matter-php.png)
 
 - **`Codeify Dark Berry`**
 
   `html`
-  ![Dark Berry](<images/dark berry/html.png>)
+  ![Dark Berry](images/dark-berry-html.png)
 
   `Javascript`
-  ![Dark Berry](<images/dark berry/js.png>)
+  ![Dark Berry](images/dark-berry-js.png)
 
   `php`
-  ![Dark Berry](<images/dark berry/php.png>)
+  ![Dark Berry](images/dark-berry-php.png)
 
 - **`Codeify Optimus Prime`**
 
