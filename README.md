@@ -1,19 +1,46 @@
-# Codiefy color theme for VS Code
+# Codeify Color Theme for Visual Studio Code
 
-- **`Codeify italic color theme`**
+![logo](images/Codiefy.png)
 
-![Codeify italic](images/italic.png)
+## Description
 
-- **`Codeify deep italic color theme`**
+The "Codeify" extension provides a set of stylish color themes for Visual Studio Code. Whether you prefer a subtle italic style, a deep italic look, or the boldness of Optimus Prime, Codeify has you covered!
 
-![Codeify deep italic](images/deep.png)
+## Themes
 
-- **`Codeify optimus prime color theme`**
+1. Codeify Italic
+2. Codeify Deep Italic
+3. Codeify Optimus Prime
+4. Codeify Optimus Prime
+5. Codeify Optimus Prime
 
-![Codeify optimus prime](images/optimas.png)
+## Demos
 
-![Codeify optimus prime](images/op.png)
+1. **Codeify Italic**
+2. **Codeify Deep Italic**
+3. **Codeify Optimus Prime**
+4. **Codeify Optimus Prime**
+5. **Codeify Optimus Prime**
 
-##
+## Installation
 
-- author : (`Md Saymum Islam Siyam`).
+1. Open Visual Studio Code.
+2. Go to Extensions (Ctrl+Shift+X).
+3. Search for "Codeify" and install the extension.
+4. Select your preferred theme from the settings.
+
+## Author
+
+- **Md Saymum Islam Siyam**
+
+## Version History
+
+- **1.0.2**
+  - Added new themes: "Codeify Dark Matter" and "Codeify Dark Berry"
+  - Updated existing theme: "Codeify Deep Italic" (details of changes go here)
+
+## License
+
+This extension is licensed under the MIT License. See LICENSE for details.
+
+Happy coding! 🚀

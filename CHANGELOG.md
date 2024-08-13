@@ -1,9 +1,12 @@
-# Change Log
+# Codeify Extension Changelog
 
-All notable changes to the "Codeify" extension will be documented in this file.
+All notable changes to the "Codeify" extension will be documented in this file. Please follow the Keep a Changelog guidelines for structuring this document.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## Current version 1.0.2
 
-## [Unreleased]
+### Added
 
-- Initial release
+- **Themes:**
+  - Added a new theme: "Codeify Dark Matter"
+  - Added another new theme: "Codeify Dark Berry"
+  - Updated the existing theme: "Codeify Deep Italic"
